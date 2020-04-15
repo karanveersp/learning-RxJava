@@ -1,5 +1,8 @@
 # RxJava
 
+Excerpts from the GitBook by Thomas Nield
+https://legacy.gitbook.com/book/thomasnield/rxjavafx-guide/
+
 RxJava has two core types, `Observable` and `Observer`.
 
 
